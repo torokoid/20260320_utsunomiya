@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/03/19、休業のスキー場から、お花と夜の星空まで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/03/18、休業のスキー場から、お花と夜の星空まで !!!</marquee></span></h1>
 
 
 
